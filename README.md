@@ -6,7 +6,7 @@ The homework focuses on using **Apache Spark (PySpark)** for batch processing an
 
 ---
 
-# 🐧 Environment Setup (Linux / WSL)
+##  Environment Setup (Linux / WSL)
 
 Tested on:
 - Ubuntu 24.04
@@ -14,7 +14,7 @@ Tested on:
 
 ---
 
-## 1️⃣ Install Java (Required for Spark 4.x)
+## Install Java (Required for Spark 4.x)
 
 Spark 4.x requires **Java 17 or 21**.
 
