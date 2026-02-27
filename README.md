@@ -62,7 +62,7 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ---
 
-## ✅ Question 1
+## Question 1
 
 **Install Spark and PySpark.  
 Create a local Spark session and print Spark version.**
